@@ -98,4 +98,22 @@ Como se puede observar los nodos A y D poseen el mismo voltaje que sus suministr
 | D  | 8 V  | 8 V  | 8 V |
 | E  | 0 V  | 0 V  | 0 V |
 
+**6. CONCLUSIONES**
+
+Con este experimento pudimos entender de mejor manera el análisis de nodos. En este informe vimos lo que son los nodos y cómo reconocerlos en un circuito formado, al igual que diferenciarlos a cada uno. Vimos, de nuevo, la importancia de las leyes de Kirchhoff y de Ohm, y de cómo estas son aplicables incluso en este análisis. Logramos definir que es un análisis de nodos y sus pasos a seguir para poder conseguir las corrientes y voltajes.
+
+Realizamos el procedimeintos del circuito dado de manera correcta y eficaz, mostrando en las imagenes el resultado y el funcionamieno de esta en Tinkercad, de igual manera pudimos simularla en Simulist. Luego fuimos capaces de reconocer los nodos y lograr sacar los voltajes de estos con el mulímetro. De igual manera, gracias al aprendizaje de un análisis de nodos, pudimos corroborar estos resultados manualmente, proporcionando las fórmulas para sacar los voltajes. 
+
+Al final logramos identifcar cada voltaje de todas las formas solicitadas, y por lo tanto se concluye que el análisis de nodos es eficaz y más sencillo que otros análisis, debido a que logró cumplir con los voltajes medidos y el método de resolución fue sencillo. 
+
+**7. BIBLIOGRAFÍA**
+
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Ministerio de Educaión . (2011). inet. Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+- Eris, N. (20 de Noviembre de 2017). Sesoricx. Obtenido de https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
+- Hain, J. (14 de Septiembre de 2019). Khan Academy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+
+
+
+
 
