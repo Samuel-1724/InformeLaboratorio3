@@ -24,3 +24,9 @@ Comprobar experimentalmente el Análisis de Nodos.
 **3.1. Rama, Mallas y Nodos**
 
 [![Ramas-Mallas-y-Nodos.png](https://i.postimg.cc/d0x7Dqyy/Ramas-Mallas-y-Nodos.png)](https://postimg.cc/jWyqFYvx)
+
+**3.2. Ley de Kirchhoff en nodos**
+
+Las leyes de Kirchhoff, junto con la Ley de Ohm, son las principales herramientas con las cuales se cuenta para analizar el valor de los parámetros eléctricos de un circuito. Mediante el análisis de nodos (primera ley) es factible hallar los valores de las corrientes y las caídas de tensión que se presenten en cualquier punto del montaje.
+
+[![M-todo-de-An-lisis-de-Nodos.png](https://i.postimg.cc/BvQ9pjBN/M-todo-de-An-lisis-de-Nodos.png)](https://postimg.cc/jD9Fdd9J)
