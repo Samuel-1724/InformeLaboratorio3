@@ -87,3 +87,15 @@ Como se puede observar los nodos A y D poseen el mismo voltaje que sus suministr
 [![Whats-App-Image-2021-12-02-at-3-07-16-AM.jpg](https://i.postimg.cc/WpkRLQ9g/Whats-App-Image-2021-12-02-at-3-07-16-AM.jpg)](https://postimg.cc/mhBp76Wg)
 
 [![Whats-App-Image-2021-12-02-at-3-07-16-AM-1.jpg](https://i.postimg.cc/BZxhCsYY/Whats-App-Image-2021-12-02-at-3-07-16-AM-1.jpg)](https://postimg.cc/yW8X1qzc)
+
+**5.6.** Cómo ya poseemos todos los datos necesarios; rellenamos la tabla con los voltajes de las nodos.
+
+| NODO  | Resultados Analíticos  | Resultados Experimentales  | Resultados Simulados  |
+| ------------ | ------------ | ------------ | ------------ |
+| A  | 12 V  | 12 V  | 12 V  |
+| B  | 2.808 V  | 2.82 V  | 2.8203 V  |
+| C  | 4.763 V  | 4.80 V  | 4.8020 V  |
+| D  | 8 V  | 8 V  | 8 V |
+| E  | 0 V  | 0 V  | 0 V |
+
+
