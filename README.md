@@ -81,3 +81,9 @@ Como se puede observar los nodos A y D poseen el mismo voltaje que sus suministr
 **5.4.** Ahora tomaremos las medidas de voltaje del circuito realizado en el simulador multisim.
 
 [![45.png](https://i.postimg.cc/mDcZ4v7F/45.png)](https://postimg.cc/TL6vqH7R)
+
+**5.5.** Ahora realizaremos manualmente el análisis de nodos, para observar si los resultados varian o no.
+
+[![Whats-App-Image-2021-12-02-at-3-07-16-AM.jpg](https://i.postimg.cc/WpkRLQ9g/Whats-App-Image-2021-12-02-at-3-07-16-AM.jpg)](https://postimg.cc/mhBp76Wg)
+
+[![Whats-App-Image-2021-12-02-at-3-07-16-AM-1.jpg](https://i.postimg.cc/BZxhCsYY/Whats-App-Image-2021-12-02-at-3-07-16-AM-1.jpg)](https://postimg.cc/yW8X1qzc)
