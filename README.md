@@ -62,6 +62,22 @@ Las leyes de Kirchhoff, junto con la Ley de Ohm, son las principales herramienta
 
 [![Nod.png](https://i.postimg.cc/pTvmTnSf/Nod.png)](https://postimg.cc/xksfpqn8)
 
-Sin embargo, el nodo A y D no serán considerado en el análisis de nodos debido a que ya conocemos sus voltajes; esto será explicado mejor luego (vease capítulo **5.2.**). De igual manera, el nodo E, el cuál es considerado como toda la parte de abajo debido a que no hay ningún componente ahí, será considerado como nuestra tierra.
+En total tenemos 6 nodos; sin embargo, el nodo A y D no se deberá considerar en el análisis de nodos, en su busqueda de voltaje debido a que ya conocemos sus voltajes; esto será explicado mejor luego (vease capítulo **5.3.**). De igual manera, el nodo E, el cuál es considerado como el nodo de referencia debido a que no hay ningún componente ahí, será considerado como nuestra tierra.
 
 Por lo tanto, nuestro circuito quedaría de esta forma.
+
+[![ui.png](https://i.postimg.cc/d1jQHsBw/ui.png)](https://postimg.cc/TLhXhXF4)
+
+**5.2.** Ahora vamos a reconocer las direcciones por las cuales fluye la corriente en cada nodo en este circuito.
+
+[![i.png](https://i.postimg.cc/3w5Wwbf4/i.png)](https://postimg.cc/68cBjzXt)
+
+**5.3.** Una vez establecidas los nodos y la dirección por la que fluye la corriente tomaremos medidas de las corrientes en cada nodo. Primero lo haremos a través de Tinkercad.
+
+[![iop.png](https://i.postimg.cc/prRFdVC6/iop.png)](https://postimg.cc/LYQXCprt)
+
+Como se puede observar los nodos A y D poseen el mismo voltaje que sus suministradores de corriente, por lo tanto no es necesario hacer el calculo respectivo con esos nodos; pese a eso, se los utilizará para lograr calcular manualmente los nodos B y C y ver si el análisis en Tinkercad es correcto.
+
+**5.4.** Ahora tomaremos las medidas de voltaje del circuito realizado en el simulador multisim.
+
+[![45.png](https://i.postimg.cc/mDcZ4v7F/45.png)](https://postimg.cc/TL6vqH7R)
